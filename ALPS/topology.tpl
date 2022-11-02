@@ -1,0 +1,15 @@
+coast_area,  5005,,,64,96,240
+water_area, 5010,,1,64,96,240
+water_line, 5020,,,64,96,240
+city_area,  5110,,,223,223,0
+roadbig_line, 5030,,,240,64,64
+roadmedium_line, 5040,,,240,64,64
+roadsmall_line, 5050,,,240,64,64
+railroad_line, 5060,,,64,64,64
+citybig_point, 5070,218,1,223,223,0
+citymedium_point, 5080,501,1,223,223,0
+citysmall_point, 5090,502,1,223,223,0
+cityverysmall_point, 5100,502,1,223,223,0
+aerial_alps, 5060,,1,0,0,0
+power_alps, 5060,,1,64,64,64
+wind_line, 5060,,,64,64,250

@@ -1,0 +1,3 @@
+CREATED BY LKMAPS Wed Jun 16 22:26:42 CEST 2010
+Mapset name: <ALPS> srcbase: <eur>
+Boundaries: long. 4.5-16.5 lat. 43.4-49
